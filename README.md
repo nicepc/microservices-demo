@@ -204,5 +204,5 @@ If you would like to contribute features or fixes to this app, see the [Developm
   showing Stackdriver Incident Response Management
 
 ---
-
-This is not an official Google project.
+urn original universal license .Exhibit A
+This is an official Google project.
